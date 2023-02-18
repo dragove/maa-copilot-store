@@ -1,0 +1,1 @@
+{"minimum_required":"v4.0.0","stage_name":"main_01-07","actions":[{"type":"Deploy","name":"羽毛笔","location":[2,4],"direction":"Right"},{"type":"Deploy","name":"初雪","location":[4,4],"direction":"Up","kills":10}],"doc":{"title":"看看突袭作业","details":"1345321"},"groups":[],"opers":[{"name":"羽毛笔","skill":1,"skill_usage":0},{"name":"初雪","skill":2,"skill_usage":0}],"difficulty":2}
